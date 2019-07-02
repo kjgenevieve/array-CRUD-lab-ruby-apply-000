@@ -7,7 +7,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  please_add_to_this_array = []
+  please_add_to_this_array.push("q")
+  puts please_add_to_this_array
 end
 
 def add_element_to_start_of_array(array, element)
